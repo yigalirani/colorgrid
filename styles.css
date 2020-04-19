@@ -1,0 +1,11 @@
+td{
+	padding:80px;
+	border:1px solid lightgray;
+}
+table{
+	border-spacing:4px;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
